@@ -36,8 +36,7 @@ A voice-enabled visual assistance web project designed to help visually impaired
 
 ## 🎓 Education
 
-CMP Degree College  
-University of Allahabad  
+  University of Allahabad  
 BCA – Data Science
 
 ## 🤝 Connect With Me
