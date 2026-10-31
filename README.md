@@ -5,7 +5,7 @@
 
 Welcome to my GitHub profile!
 
-I'm a BCA Data Science student at CMP Degree College, University of Allahabad.
+I'm a BCA Data Science student at  University of Allahabad.
 
 I'm passionate about programming, technology, and building projects that solve real-world problems.
 
@@ -20,6 +20,7 @@ I'm passionate about programming, technology, and building projects that solve r
 ## 🛠️ Technical Skills
 
 - Python (Beginner)
+- Java
 - HTML
 - CSS
 
